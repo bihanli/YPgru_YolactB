@@ -1,4 +1,4 @@
-Here is a tensorflow version of Yolact.
+# Here is a tensorflow version of Yolact.
 
 dlc step:
 step1:output h5
@@ -8,6 +8,10 @@ step2:h5->pb
 cd YolactB
 python ktot2.py Mask.h5 Mask.pb
 step3:snpe
+python ktot2.py Mask.h5 Mask.pb
+
+https://drive.google.com/file/d/1ISra23I0DYA6F_OcFNrDqA3PNeKDRCmm/view?usp=sharing
+
 ~~~
 
 training step:
