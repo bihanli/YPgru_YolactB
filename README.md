@@ -17,7 +17,6 @@ https://drive.google.com/file/d/1ISra23I0DYA6F_OcFNrDqA3PNeKDRCmm/view?usp=shari
 ~~~
 
 ~~~
-
 training step:
 step1:json to binary encoding
 cd YolactB
